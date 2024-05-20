@@ -1,2 +1,4 @@
 Print("Sindhu");
 Print("HI");
+print("Welcome");
+print(22);
